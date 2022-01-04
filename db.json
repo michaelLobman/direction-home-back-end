@@ -3,9 +3,7 @@
     {
       "id": 1,
       "user": "F. Scott Fitzgerald",
-      "content": "I saw Dylan in LA in 2016. You could hardly hear him. After he sang 'Tangled Up in Blue,' an audience member shouted 'Play 'Tangled Up in Blue!''",
-      "upvotes": 8,
-      "downvotes": 0
+      "content": "I saw Dylan in LA in 2016. You could hardly hear him. After he sang 'Tangled Up in Blue,' an audience member shouted 'Play 'Tangled Up in Blue!''"
     },
     {
       "user": "Annie B.",
@@ -15,22 +13,16 @@
     {
       "user": "John B.",
       "content": "Had the honor to see the man in the 60's. He as hours late but no one complained. ",
-      "upvotes": 0,
-      "downvotes": 0,
       "id": 5
     },
     {
       "user": "John L",
       "content": "Dylan walked by me once in the airport. Forgot to get on my flight after that...",
-      "upvotes": 0,
-      "downvotes": 0,
       "id": 6
     },
     {
       "user": "Fitzgerald",
       "content": "My father played Dylan through my childhood. Always made me happy.",
-      "upvotes": 0,
-      "downvotes": 0,
       "id": 7
     }
   ],
